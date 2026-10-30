@@ -6,6 +6,3 @@ torch
 torchvision
 python-multipart
 scikit-image
-gradio
-rembg
-onnxruntime
